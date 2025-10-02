@@ -9,5 +9,6 @@ A curated list of working real examples to learn Rust.
 - [wc-rs](./wc-rs/) - A Rust implementation for the challenge - [building wc][1]
 - [custom-deserializer](./custom-deserializer/) - An example for custom deserialization using serde
 - [codegen](./codegen/) - Generate Rust types from a JSON specification
+- [led-blinking](./led-blinking/) - Blink an LED
 
-[1]: https://codingchallenges.fyi/challenges/challenge-wc/
+  [1]: https://codingchallenges.fyi/challenges/challenge-wc/
